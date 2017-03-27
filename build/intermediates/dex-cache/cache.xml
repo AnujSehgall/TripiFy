@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.github.clans-fab-1.6.2_855d2a936d3f9d1bfa8607e24531fac57ec6cf5b.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_565008488542df708035b165a007bafa5f7790f0.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4849ea433c437a55bcc81ea5549b0c7c23c84212.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_70b671759dc479a736dd566bf5bd908cfe2daadc.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.1_3cfa235908c410da51849aeef5dc109eb58392cd.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_b0da2bcb06a2f71986e86a615d3103415b3dbcf3.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_e3d4e8ea56a39d9a6d66ac1893f7a47596060a2f.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_5c4351e83217531c2da2ec6752aee9ce839de5f5.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.1_ecefa480e6c9744c599ea567b4b82481eed2faf9.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_ac7b34315d6ec38f2d7a32e8005478c0cac7fe06.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_cf98566f6602cbfe8a4fbd2d50fd3b8b07c82896.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_9b37483df3f406b04a02c006e4e145376c46dd5c.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_02111aab8efec787d67e9c15d62d8f593a359db5.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_352ad6c5b96c6832e416b1db42cd9278052aaa5d.jar" />
+    </item>
+    <item
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/glide-3.7.0_c62d96db18a60db81ee02ddf2a4ae94778519aca.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_c13342f28cef88ed69c88c312e10134fae7a8cc1.jar" />
+    </item>
+    <item
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/gson-2.7_6e68c77399dfa930c196795504cdd901177f640a.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_b46132b6256b3729458df556723869b4a53b5a88.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_70fcad0e549d675fcc9c5cc51806120658d0c22a.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_fcc859dbe67a55945b79177812075e936f061189.jar" />
+    </item>
+    <item
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_af163f0e2109f79a64315cc1eb0f1514dfffc299.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_ccc671165ce2e9fb8ee6130a4e75fb311b4f86de.jar" />
+    </item>
+    <item
+        jar="/home/anuj/Desktop/TripiFy/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/anuj/Desktop/TripiFy/app/build/intermediates/pre-dexed/debug/volley_35325bb3e6c5f3fbbb15fb73dd1b0a297f624961.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facbook Like Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string-array name="carsname">
+        <item>ALTO K10</item>
+        <item>AMAZE</item>
+        <item>ACCORD</item>
+        <item>BALENO</item>
+        <item>BEAT</item>
+        <item>CELERIO</item>
+        <item>CIAZ</item>
+        <item>CIVIC</item>
+        <item>COROLLA ALTIS</item>
+        <item>CITY</item>
+        <item>CRUZE</item>
+        <item>EECO SPORT</item>
+        <item>ERTIGA</item>
+        <item>EON</item>
+        <item>ETIOS CROSS</item>
+        <item>FABIA</item>
+        <item>FORTUNER</item>
+        <item>I20</item>
+        <item>I10</item>
+        <item>INNOVA</item>
+        <item>MOBILIO</item>\
+        <item>OCTAVIA</item>
+        <item>POLO</item>
+        <item>RITZ</item>
+        <item>SWIFT</item>
+        <item>S-CROSS</item>
+        <item>SUPERB</item>
+        <item>SAFARI</item>
+        <item>SCORPIO</item>
+        <item>TAVERA</item>
+        <item>VENTO</item>
+        <item>WAGON R</item>
+        <item>XYLO</item>
+        <item>XUV 500</item>
+        <item>YETI</item>
+    </string-array>
+
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="title_activity_popup">popup</string>
+
+    <string name="title_activity_map">MapAct</string>
+
+
+    <string name="title_activity_transport">TransportAct</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

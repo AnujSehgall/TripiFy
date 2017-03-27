@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_up.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_down.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/home/anuj/.android/build-cache/7add86ffe9597813b2f3bc802bc006f88f495148/output/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/anuj/.android/build-cache/b80a9f10485d74d8836aa2afc70da305cf022c4c/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/anuj/.android/build-cache/b80a9f10485d74d8836aa2afc70da305cf022c4c/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_up.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_down.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/home/anuj/.android/build-cache/7add86ffe9597813b2f3bc802bc006f88f495148/output/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/home/anuj/.android/build-cache/7add86ffe9597813b2f3bc802bc006f88f495148/output/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/home/anuj/.android/build-cache/7add86ffe9597813b2f3bc802bc006f88f495148/output/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/home/anuj/.android/build-cache/7add86ffe9597813b2f3bc802bc006f88f495148/output/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/anuj/.android/build-cache/b80a9f10485d74d8836aa2afc70da305cf022c4c/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/home/anuj/.android/build-cache/7add86ffe9597813b2f3bc802bc006f88f495148/output/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/anuj/.android/build-cache/b80a9f10485d74d8836aa2afc70da305cf022c4c/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/anuj/.android/build-cache/b80a9f10485d74d8836aa2afc70da305cf022c4c/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/anuj/.android/build-cache/b80a9f10485d74d8836aa2afc70da305cf022c4c/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\Facebook Like FeedView1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/anuj/Desktop/TripiFy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/TripiFy/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/anuj/.android/build-cache/3bccc5fcbbadd4c975ce683f5bc502c3b5cc473a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/anuj/Desktop/TripiFy/C:\\Users\\Admin\\AndroidStudioProjects\\TripiFy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    }
+]
